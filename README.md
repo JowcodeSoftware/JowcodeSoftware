@@ -8,8 +8,9 @@
  <a href="https://instagram.com/jow_code" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
  #
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jowcodesoftware&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jowcodesoftware&layout=compact&langs_count=7&theme=black"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jowcodesoftware&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="jowcodesoftware's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jowcodesoftware&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="jowcodesoftware's GitHub Stats" />
+
 
 ### Tecnologias que eu utilizo:
 
