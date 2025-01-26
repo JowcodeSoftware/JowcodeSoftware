@@ -1,4 +1,4 @@
-## Olá! Eu sou Jowcode Software. 🌐
+## Welcome Devs, I'am Developer Jowcode Software. 🌐
 💻 Desenvolvedor FullStack
 
 ### Outras redes sociais que você pode me encontrar:
