@@ -6,7 +6,7 @@
  <a href = "https://youtube.com/@jowcode?si=aLyxbma4_3ZF7CTU"><img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://br.linkedin.com/in/jhonatan-souza01" target="_blank"><img src="https://img.shields.io/badge/Linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
  <a href="https://instagram.com/jow_code" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
- <a href="mailto:jho.souza95gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+ <a href="mailto:jho.souza95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
  #
 
 <img src="https://github-readme-stats.vercel.app/api?username=jowcodesoftware&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="jowcodesoftware's GitHub Stats" />
